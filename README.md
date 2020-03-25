@@ -17,9 +17,15 @@ Learn to work more effectively with GraphQL subscriptions in this course!
 
 **Important Links**
 
+- [Funded Pet Library](https://funded-pet-library.moonhighway.com)
+- [Snowtooth API](https://snowtooth.moonhighway.com)
 - [Vote Activity: Start Files](https://github.com/eveporcello/vote-activity)
 - [Vote Activity: Finished Files](https://github.com/eveporcello/vote-activity/tree/complete)
 - [Snowtooth Subscription Lab](https://github.com/graphqlworkshop/snowtooth-subscriptions)
 - [Snowtooth UI](https://github.com/graphqlworkshop/snowtooth-ui)
 
 **Resources**
+
+- [GraphQL Subscriptions: Apollo Docs](https://www.apollographql.com/docs/react/data/subscriptions/)
+- [GraphQL Subscriptions Announcement Talk](https://www.youtube.com/watch?v=bn8qsi8jVew)
+- [External PubSub Engine](https://www.apollographql.com/docs/graphql-subscriptions/external-pubsub/)
